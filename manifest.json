@@ -1,0 +1,25 @@
+{
+  "name": "صور المنتجات",
+  "short_name": "صور المنتجات",
+  "description": "إدارة صور المنتجات بالاعتماد على كود المنتج وGoogle Sheets وGoogle Drive",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f3f0",
+  "theme_color": "#f4a07b",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
